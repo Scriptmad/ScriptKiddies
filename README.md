@@ -10,7 +10,7 @@ Under Development
  
 <i>
 
-run this script using <code>./update<\code>
+run this script using <code>./update
  
   
 
