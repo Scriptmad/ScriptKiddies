@@ -6,7 +6,7 @@ Under Development
 # How to Run
 
 <i>
-<code>chmod 777 update</code>
+<code>chmod 777 update
  
 <i>
 
