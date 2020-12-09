@@ -8,7 +8,7 @@ copy and paste
 `git clone https://github.com/Scriptmad/ScriptKiddies.git`
 
 <i>
-`chmod 777 update`
+ `chmod 777 update`
  
 <i>
 
