@@ -10,6 +10,6 @@ copy and paste
 <i>
  `chmod 777 update`
  
-<i>
+</i>
 
 run this script using `./update`
